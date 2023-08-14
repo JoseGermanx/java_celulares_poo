@@ -7,7 +7,7 @@ public class Celular {
         this.color = color;
     }
 
-    public Celular(){};
+    public Celular(){}
 
     public void llamar(){
         System.out.println("Llamando desde el celular "+nombre);
